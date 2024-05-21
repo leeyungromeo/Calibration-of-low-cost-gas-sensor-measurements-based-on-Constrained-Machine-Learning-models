@@ -4,5 +4,5 @@ This thesis takes an in-depth look at the problem of calibrating low-cost gas se
 By introducing an innovative calibration method that incorporates machine learning constraints, this study demonstrates a significant improvement in sensor performance. The results reveal a significant increase in measurement accuracy, underlining the transformative potential of this approach for low-cost environmental monitoring. Indeed, the use of these advanced techniques makes air monitoring more accessible and economical, while maintaining accuracy comparable to that of more expensive devices.
 
 Before executing this code, you must download the two datasets to be manipulated.
-- The IRCELINE dataset from Belgium's Cellule Interrégionale de l'Environnement.
-- The Vocsens dataset.
+- The IRCELINE dataset from Belgium's Cellule Interrégionale de l'Environnement. "Data_Irceline_Corroy-Le-Grand_All_bis.csv"
+- The Vocsens dataset. "out10052022"
